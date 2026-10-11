@@ -26,7 +26,7 @@ I hold a diploma in Computer Application Programming and Web Page Design from Pa
 
 ### 📫 Connect With Me
 
-- GitHub: [[Your GitHub Profile URL](https://github.com/MohammadJboor3)]
+- GitHub: [(https://github.com/MohammadJboor3)]
 - LinkedIn: [www.linkedin.com/in/mohammadjboor]
 - Email: [jboormoh0@gmail.com]
 
